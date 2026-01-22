@@ -1,0 +1,23 @@
+
+HUMAN|HGNC=1606|UniProtKB=P51681	C-C chemokine receptor type 5;CCR5;PTN002471047;orthologs	C-C CHEMOKINE RECEPTOR TYPE 5 (PTHR10489:SF686)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=16647|UniProtKB=O00574	C-X-C chemokine receptor type 6;CXCR6;PTN002470989;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 6 (PTHR10489:SF705)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1611|UniProtKB=Q9NPB9	Atypical chemokine receptor 4;ACKR4;PTN002470994;orthologs	ATYPICAL CHEMOKINE RECEPTOR 4 (PTHR10489:SF733)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1604|UniProtKB=P51677	C-C chemokine receptor type 3;CCR3;PTN002471043;orthologs	C-C CHEMOKINE RECEPTOR TYPE 3 (PTHR10489:SF649)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1612|UniProtKB=O00421	C-C chemokine receptor-like 2;CCRL2;PTN002471039;orthologs	C-C CHEMOKINE RECEPTOR-LIKE 2 (PTHR10489:SF655)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1609|UniProtKB=P51685	C-C chemokine receptor type 8;CCR8;PTN002471002;orthologs	C-C CHEMOKINE RECEPTOR TYPE 8 (PTHR10489:SF627)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6026|UniProtKB=P25024	C-X-C chemokine receptor type 1;CXCR1;PTN002471010;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 1 (PTHR10489:SF916)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6027|UniProtKB=P25025	C-X-C chemokine receptor type 2;CXCR2;PTN002471012;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 2 (PTHR10489:SF689)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=2561|UniProtKB=P61073	C-X-C chemokine receptor type 4;CXCR4;PTN002470993;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 4 (PTHR10489:SF594)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=23692|UniProtKB=P25106	Atypical chemokine receptor 3;ACKR3;PTN002551477;orthologs	ATYPICAL CHEMOKINE RECEPTOR 3 (PTHR10489:SF931)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1625|UniProtKB=P46094	Chemokine XC receptor 1;XCR1;PTN002471017;orthologs	CHEMOKINE XC RECEPTOR 1 (PTHR10489:SF730)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1565|UniProtKB=O00590	Atypical chemokine receptor 2;ACKR2;PTN002471001;orthologs	ATYPICAL CHEMOKINE RECEPTOR 2 (PTHR10489:SF942)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=4540|UniProtKB=P49682	C-X-C chemokine receptor type 3;CXCR3;PTN002471027;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 3 (PTHR10489:SF671)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1605|UniProtKB=P51679	C-C chemokine receptor type 4;CCR4;PTN002471003;orthologs	C-C CHEMOKINE RECEPTOR TYPE 4 (PTHR10489:SF608)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1602|UniProtKB=P32246	C-C chemokine receptor type 1;CCR1;PTN002471040;orthologs	C-C CHEMOKINE RECEPTOR TYPE 1 (PTHR10489:SF711)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1603|UniProtKB=P41597	C-C chemokine receptor type 2;CCR2;PTN002471046;orthologs	C-C CHEMOKINE RECEPTOR TYPE 2 (PTHR10489:SF913)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1610|UniProtKB=P51686	C-C chemokine receptor type 9;CCR9;PTN002470988;orthologs	C-C CHEMOKINE RECEPTOR TYPE 9 (PTHR10489:SF664)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=2558|UniProtKB=P49238	CX3C chemokine receptor 1;CX3CR1;PTN002470998;orthologs	CX3C CHEMOKINE RECEPTOR 1 (PTHR10489:SF946)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1607|UniProtKB=P51684	C-C chemokine receptor type 6;CCR6;PTN002470990;orthologs	C-C CHEMOKINE RECEPTOR TYPE 6 (PTHR10489:SF611)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1060|UniProtKB=P32302	C-X-C chemokine receptor type 5;CXCR5;PTN002471023;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 5 (PTHR10489:SF618)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=4474|UniProtKB=P46092	C-C chemokine receptor type 10;CCR10;PTN002471024;orthologs	C-C CHEMOKINE RECEPTOR TYPE 10 (PTHR10489:SF735)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1608|UniProtKB=P32248	C-C chemokine receptor type 7;CCR7;PTN002471021;orthologs	C-C CHEMOKINE RECEPTOR TYPE 7 (PTHR10489:SF635)	cell adhesion molecule(PC00069)	Homo sapiens
